@@ -58,30 +58,3 @@ $ make build-image
 ```console
 $ docker-compose -f invitesvc.yml up
 ```
-
-
-----
-
-
-- Day to day task
-  - Using kanban 
-  - Dependent on client reuqirements
-  - Test and staging reuqire
-
-- Interesting problems your solving right now
-  - Scaling issues making
-  - Split into new services
-  - Developing new solutions, R&D
-
-
-- Expectations for the role in the first 1-3 months
-  - Get up to speed
-
-- Responding to production issues
-  - On-call rotation? Yes, but seldom
-  - Monitoring tools, alerts
-    - Send alerts to slack
-    - AWS Cloudwatch, Kibana
-
-- Platform engineer?
-  -  
